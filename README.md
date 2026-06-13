@@ -27,7 +27,16 @@ Schema + business rules (YAML) -> agent generates N realistic rows respecting co
 Constraint-aware generation.
 
 ## Requirement
-Prompt Documentation.
+# Prompt Documentation
+The following prompts were used during development of the Test Data Generator with Constraints:
+- "Generate a Python application that creates realistic test data from YAML schema definitions while enforcing business constraints."
+- "Design an agent loop architecture that validates generated records and automatically regenerates invalid data."
+- "Create a regex pattern to validate corporate email addresses and reject invalid formats."
+- "Write Pytest test cases to verify age constraints, uniqueness checks, and schema validation."
+- "Generate sample employee and banking user YAML schemas with realistic business rules."
+- "Suggest methods to export generated data into CSV, JSON, and SQL formats."
+- "Identify edge cases for test data generation involving minimum and maximum age boundaries."
+These prompts were refined iteratively during development to improve accuracy, validation coverage, and usability of the generated datasets.
 
 ## Description
 Maintain a simple notes file containing key prompts used during development. (See AI Usage Note section)
