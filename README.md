@@ -2,10 +2,10 @@
 TEAM-17
 
 ## Team Members:
-24U45A4215 - M.HARINI
-23U41A05B6 - URUKUTI ROSHINI
-24U45A0403 - BODDEDA VANDHANA
-24u45a0438 - KONCHA SUBHADRA
+- 24U45A4215 - M.HARINI
+- 23U41A05B6 - URUKUTI ROSHINI
+- 24U45A0403 - BODDEDA VANDHANA
+- 24u45a0438 - KONCHA SUBHADRA
 
 ## Demo Video:
 You can watch the Demo video file for this entire case study using the below link
@@ -66,8 +66,8 @@ Ensure you have Python 3.9+ installed natively or via a virtual environment. Cle
 ### Installation Commands
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/24U45A4215/test-data-generator-with-constraints.git
-cd test-data-generator-with-constraints
+- git clone https://github.com/24U45A4215/test-data-generator-with-constraints.git
+- cd test-data-generator-with-constraints
 
 # Create a virtual environment
 python -m venv venv
