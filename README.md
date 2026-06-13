@@ -73,12 +73,12 @@ Export
 Ensure you have Python 3.9+ installed natively or via a virtual environment. Clean commit history and complete source code are maintained in the repository.
 
 ## Technologies used
-#1. The Simulated Backend (The files shown in the Code Viewer):
+1. The Simulated Backend (The files shown in the Code Viewer):
 - Language: Python 3.9+
 - Entry Point: app.py
 - Libraries Used: pandas, pytest, faker (as specified in the requirements.txt)
 - Architecture: Agentic Loop via object-oriented Py modules (parser.py, agent.py, validator.py).
-# 2. The Live Web Wrapper (The actual UI you are interacting with right now):
+2. The Live Web Wrapper (The actual UI you are interacting with right now):
 - Framework: React 18 with TypeScript
 - Build Tool: Vite
 - Styling: Tailwind CSS (Handles the dark/light mode and layout)
