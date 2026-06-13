@@ -9,7 +9,7 @@ TEAM-17
 
 ## Demo Video:
 You can watch the Demo video file for this entire case study using the below link
-https://drive.google.com/file/d/12oSdCOP_o6Xmij-Jp-gfLZfnY1ZAfgGo/view?usp=sharing
+- https://drive.google.com/file/d/12oSdCOP_o6Xmij-Jp-gfLZfnY1ZAfgGo/view?usp=sharing
 
 ## Category
 Quality assurance
