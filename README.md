@@ -5,7 +5,7 @@ TEAM-17
 - 24U45A4215 - MANAPURAM HARINI
 - 23U41A05B6 - URUKUTI ROSHINI
 - 24U45A0403 - BODDEDA VANDHANA
-- 24u45a0438 - KONCHA SUBHADRA
+- 24U45A0438 - KONCHA SUBHADRA
 
 ## Demo Video:
 You can watch the Demo video file for this entire case study using the below link
