@@ -1,4 +1,4 @@
-# TEAM NAME:
+TEAM NAME:
 TEAM-17
 
 # Team Members:
