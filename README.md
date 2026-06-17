@@ -11,7 +11,7 @@ TEAM-17
 You can watch the Demo video file for this entire case study using the below link
 - https://drive.google.com/file/d/12oSdCOP_o6Xmij-Jp-gfLZfnY1ZAfgGo/view?usp=sharing
 
-## PRESENTATION
+## CASE STUDY PRESENTATION
 You can view the PPT through this below link
 - https://drive.google.com/file/d/1N-maeC9doWW0ZFFnnZF5o2n8RL9BawDL/view?usp=drivesdk
 
