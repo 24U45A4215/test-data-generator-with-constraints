@@ -11,6 +11,11 @@ TEAM-17
 You can watch the Demo video file for this entire case study using the below link
 - https://drive.google.com/file/d/12oSdCOP_o6Xmij-Jp-gfLZfnY1ZAfgGo/view?usp=sharing
 
+## Collaborators
+- https://www.github.com/vandhanaboddeda-png
+- https://www.github.com/Subhadrakoncha-lang
+- https://www.github.com/roshiniurukuti-web
+
 ## CASE STUDY PRESENTATION
 You can view the PPT through this below link
 - https://drive.google.com/file/d/1fysBfZXIyrA23HRSPWYQSAlv5u6BUBvn/view?usp=drivesdk
